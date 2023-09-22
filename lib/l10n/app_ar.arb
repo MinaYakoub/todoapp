@@ -1,0 +1,23 @@
+{
+"app_title" : "قائمه المهام", 
+"taskList" : "المهام", 
+"settings" : "الاعدادات", 
+"delete" : "مسح", 
+"addnewtask" : "اضافه مهمه جديده", 
+"enteryourtask" : "اضف المهمه", 
+"selecttime" : "اختر التاريخ", 
+"language" : "اللغه", 
+"english" : "اللغه الانجليزيه", 
+"arabic" : "اللغه العربيه", 
+"mode" : "السمه", 
+"light" : "مضئ", 
+"dark" : "داكن", 
+"thisistitle" : "العنوان", 
+"tasldetails" : "تفاصيل المهمه",
+"savechanges" : "حفظ التغييرات", 
+"save" : "حفظ", 
+"pleaseentertaskdis" : "ادخل تفاصيل المهمه", 
+"pleaseentertaskname" : "ادخل اسم المهمه",
+"edit" : "تعديل", 
+"edittask" : "تعديل المهمه"
+}
